@@ -1,0 +1,27 @@
+/*
+ * Absolute Position: anchors element to the first element (overall box)
+ */
+
+h2 {
+    position: absolute;
+    top: 6%;
+    left: 2%;
+  }
+  
+ h3 {
+    position: absolute;
+    top: 0;
+    right: -40px;
+  }
+  
+ h4 {
+    position: absolute;
+    right: 20px;
+    bottom: -10px;
+  }
+  
+ h5 {
+    position: absolute;
+    bottom: 0;
+  }
+  
